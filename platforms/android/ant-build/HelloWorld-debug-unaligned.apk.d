@@ -1,4 +1,4 @@
-C:\Users\Dorian\barter\platforms\android\ant-build\HelloWorld-debug-unaligned.apk : \
-C:\Users\Dorian\barter\platforms\android\ant-build\HelloWorld.ap_ \
-C:\Users\Dorian\barter\platforms\android\ant-build\classes.dex \
-C:\Users\Dorian\barter\platforms\android\CordovaLib\ant-build\classes.jar \
+/home/dorian/dev/barter_phonegap/barter/platforms/android/ant-build/HelloWorld-debug-unaligned.apk : \
+/home/dorian/dev/barter_phonegap/barter/platforms/android/ant-build/HelloWorld.ap_ \
+/home/dorian/dev/barter_phonegap/barter/platforms/android/ant-build/classes.dex \
+/home/dorian/dev/barter_phonegap/barter/platforms/android/CordovaLib/ant-build/classes.jar \
